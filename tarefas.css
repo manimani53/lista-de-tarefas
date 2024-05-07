@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+header {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: wheat;
+}
+
+form {
+    padding: 24px 0;
+    text-align: center;
+    display: none;
+    color: wheat;
+}
+
+input {
+    border: 1px solid wheat;
+    padding: 8px;
+    color: wheat;
+}
+
+button {
+    margin: 5px;
+    color: wheat;
+    border: 2px solid;
+    padding: 8px;
+    cursor: pointer;
+}
+
+header button {
+    margin: 8px;
+}
+
+ul li{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: wheat;
+}
+
