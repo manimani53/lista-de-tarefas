@@ -44,3 +44,7 @@ ul li{
     color: wheat;
 }
 
+.completed {
+    text-decoration: line-through;
+}
+
